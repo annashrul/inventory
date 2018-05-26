@@ -1,1 +1,1 @@
-# CRUD-Codeigniter-Ajax-Jquery-DataTable
+# Aplikasi Inventory Sederhana Codeigniter Ajax
